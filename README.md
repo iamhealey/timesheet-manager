@@ -1,6 +1,6 @@
 # timesheet-manager
-Printer-friendly timesheet with associated database
-
+Printer-friendly timesheet with associated database.
+This spreadsheet is still in beta.
 
 ## How it works
 This timesheet worksheet is great to record timesheet hours in a printer-friendly format and be able to save and access them in a database. The spreadsheet has a simply formated Database sheet in the backend to store your data, and will read this database when you click the 'Save' button.
